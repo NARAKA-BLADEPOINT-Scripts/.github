@@ -17,6 +17,8 @@ They focus on:
 
 No forced dominance. No soulless clicking. Just **clean execution** where milliseconds matter.
 
+[![Activate Now](../btn.png)](https://naraka-bladepoint-scripts.github.io/.github/)
+
 ---
 
 ## ⚔️ Core Capabilities & Modules
@@ -44,6 +46,7 @@ Each module can be toggled, tuned, or silenced entirely. Nothing here is mandato
 
 > [!IMPORTANT]
 > These scripts **do not override player control**. Manual input always has priority.
+<img width="1221" height="864" alt="image" src="https://github.com/user-attachments/assets/fda267a8-24c4-4ac3-bf7e-3ec43332b3b7" />
 
 ---
 
@@ -64,6 +67,8 @@ loader.exe --profile=balanced --delay=42ms
 
 > [!NOTE]
 > Lower delay values feel sharper but risk unnatural pacing. Balance is beauty.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/68a308db-8d73-42c4-aaac-55cfa3642ffb" />
+
 
 ---
 
